@@ -1,0 +1,11 @@
+C:\Users\insind766\Desktop\AK\ConferenceManagement\ConferenceManagement\bin\Release\ConferenceManagement.exe.config
+C:\Users\insind766\Desktop\AK\ConferenceManagement\ConferenceManagement\bin\Release\ConferenceManagement.exe
+C:\Users\insind766\Desktop\AK\ConferenceManagement\ConferenceManagement\bin\Release\ConferenceManagement.pdb
+C:\Users\insind766\Desktop\AK\ConferenceManagement\ConferenceManagement\obj\Release\ConferenceManagement.exe
+C:\Users\insind766\Desktop\AK\ConferenceManagement\ConferenceManagement\obj\Release\ConferenceManagement.pdb
+C:\Users\insind766\Documents\GitHub\ConfTrack\ConferenceManagement\ConferenceManagement\bin\Release\ConferenceManagement.exe.config
+C:\Users\insind766\Documents\GitHub\ConfTrack\ConferenceManagement\ConferenceManagement\obj\Release\ConferenceManagement.exe
+C:\Users\insind766\Documents\GitHub\ConfTrack\ConferenceManagement\ConferenceManagement\obj\Release\ConferenceManagement.pdb
+C:\Users\insind766\Documents\GitHub\ConfTrack\ConferenceManagement\ConferenceManagement\bin\Release\ConferenceManagement.exe
+C:\Users\insind766\Documents\GitHub\ConfTrack\ConferenceManagement\ConferenceManagement\bin\Release\ConferenceManagement.pdb
+C:\Users\insind766\Documents\GitHub\ConfTrack\ConferenceManagement\ConferenceManagement\obj\Release\ConferenceManagement.csprojResolveAssemblyReference.cache
