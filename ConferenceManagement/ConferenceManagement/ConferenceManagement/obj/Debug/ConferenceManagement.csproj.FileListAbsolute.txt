@@ -1,0 +1,15 @@
+c:\users\insind766\documents\visual studio 2012\Projects\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.exe.config
+c:\users\insind766\documents\visual studio 2012\Projects\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.csprojResolveAssemblyReference.cache
+c:\users\insind766\documents\visual studio 2012\Projects\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.exe
+c:\users\insind766\documents\visual studio 2012\Projects\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.pdb
+c:\users\insind766\documents\visual studio 2012\Projects\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.exe
+c:\users\insind766\documents\visual studio 2012\Projects\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.pdb
+C:\Users\INSIND757\Desktop\ConferenceManagement\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.exe.config
+C:\Users\INSIND757\Desktop\ConferenceManagement\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.exe
+C:\Users\INSIND757\Desktop\ConferenceManagement\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.pdb
+C:\Users\INSIND757\Desktop\ConferenceManagement\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.exe
+C:\Users\INSIND757\Desktop\ConferenceManagement\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.pdb
+C:\Users\INSIND757\Desktop\ConferenceManagement\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.csprojResolveAssemblyReference.cache
+C:\Users\insind766\Desktop\TW\ConferenceManagement\ConferenceManagement\ConferenceManagement\ConferenceManagement\bin\Debug\ConferenceManagement.exe.config
+C:\Users\insind766\Desktop\TW\ConferenceManagement\ConferenceManagement\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.exe
+C:\Users\insind766\Desktop\TW\ConferenceManagement\ConferenceManagement\ConferenceManagement\ConferenceManagement\obj\Debug\ConferenceManagement.pdb
