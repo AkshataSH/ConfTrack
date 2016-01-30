@@ -1,0 +1,10 @@
+How to Run
+
+Place Input file in bin/Release folder or bin/Debug. Input file name is hardcoded as Input.txt.
+If file name needs to be changed, go to App.config file and change the name.
+
+Click on exe file to Run the project.
+
+If Inavlid input is provided, user will be prompted to continue or quit? 
+On Click of Yes, excluding invalid input, topics are allocated for sessions. Else will be exited.
+
